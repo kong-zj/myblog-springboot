@@ -15,7 +15,7 @@ logging:
     root: warn
     com.kzj: info
   file:
-    path: log/myblog-prod.log
+    path: myblog-prod-log/
 
 server:
   port: 8081

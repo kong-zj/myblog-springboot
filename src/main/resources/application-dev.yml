@@ -15,6 +15,6 @@ logging:
     root: info
     com.kzj: debug
   file:
-    path: log/myblog-dev.log
+    path: myblog-dev-log/
 
 
